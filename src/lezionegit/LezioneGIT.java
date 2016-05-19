@@ -35,7 +35,12 @@ public class LezioneGIT {
      */
     public static void main(String[] args) {
 
+        //Alla prima revisione
         System.out.println("Il progetto è partito!");
+
+        //Alla seconda revisione
+        System.out.println("Il progetto è al punto 2!");
+
     }
 
 }
