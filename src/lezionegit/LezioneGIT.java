@@ -27,6 +27,11 @@ public class LezioneGIT {
      JhonnyPala
      leonidadegliagiadi@gmail.com
      leonida400
+    
+    - GESTIONE DIPENDENZE -
+    maven:  utility che gestisce le dipendenze dalle librerie esterne: se non ci sono
+            le librerie in locale, le scarica da internet
+    
      */
     /**
      * Funzione main
