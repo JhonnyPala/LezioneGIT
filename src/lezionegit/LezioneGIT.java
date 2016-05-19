@@ -40,6 +40,9 @@ public class LezioneGIT {
 
         //Alla seconda revisione
         System.out.println("Il progetto è al punto 2!");
+        
+        //Alla terza revisione, ramo Sviluppo
+        System.out.println("Il progetto è al punto 1 del ramo sviluppo!");
 
     }
 
